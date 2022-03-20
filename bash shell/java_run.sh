@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo $1".java"
-echo $1".class"
+javac $1".java"
+java $1
