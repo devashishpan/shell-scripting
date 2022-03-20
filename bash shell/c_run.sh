@@ -8,4 +8,4 @@ echo "Running "$1" executable file...."
 
 ./$1
 
-echo "\n\nExecution Completed ........"
+echo $'\n\nExecution Completed ........'
